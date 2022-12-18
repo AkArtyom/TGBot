@@ -18,7 +18,7 @@
 
 1. Склонируйте репозиторий себе на диск:
 ```
-git clone git@github.com:TenF1ngers/CsMoney-Parser-Bot.git
+git clone git@github.com:AkArtyom/TGBot.git
 ```
 
 2. Перейдите в склонированный репозиторий:
