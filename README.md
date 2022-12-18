@@ -1,4 +1,4 @@
-<h1 align="center">💥 @csmoney_parser_python_mipt_bot 💥</h1>
+<h1 align="center">💥 @hdfjhdjvdbot 💥</h1>
 
 ### 🗺 Описание
 
